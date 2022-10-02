@@ -1,5 +1,3 @@
-import Link from "next/link";
-
 export default function Index() {
-  return <Link href={{ pathname: "/" }}>Index</Link>;
+  return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
 }
