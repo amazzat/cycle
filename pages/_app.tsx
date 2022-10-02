@@ -1,3 +1,5 @@
+import "@fontsource/syne";
+import "@fontsource/manrope";
 import "app/core/styles/global.css";
 import { type AppProps } from "next/app";
 
